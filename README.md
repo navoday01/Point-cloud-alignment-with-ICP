@@ -11,6 +11,6 @@
  
  ![Alt text](assets/Lidar.png)|![Alt text](assets/Lidar.gif)
 :--:|:--:
- *Initial Point Clouds*|*ICP aligned Point Cloud*
+ *Initial Point Clouds of Room*|*ICP aligned Point Cloud of Room*
 
 
