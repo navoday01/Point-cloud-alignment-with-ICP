@@ -7,9 +7,9 @@ The objective of this project is to implement point-to-point ICP (Iterative Clos
 ## Dataset
 The implementation is done on opensource point cloud dataset ``cloud_bin_[0-2].pcd`` and point cloud of a room ``LiDAR.pcd`` collected using Velodyne Lidar (VLP-16).
 
-![Alt text](assets/Dataset.png)|![Alt text](assets/MappedRoom.png)
+![Alt text](assets/colour.png)|![Alt text](assets/MappedRoom.png)
 :--:|:--:
- *Opensource Point Cloud*|*Point Cloud collected using VLP-16*
+ *Opensource Point Cloud (Source: )*|*Point Cloud collected using VLP-16*
 
 
 ![Alt text](assets/DatasetICP.png)|![Alt text](assets/DatasetICP.gif)
