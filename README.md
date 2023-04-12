@@ -11,7 +11,7 @@ The implementation is done on opensource point cloud dataset ``cloud_bin_[0-2].p
 :--:|:--:
  *Opensource Point Cloud (Source: Open3D)*|*Point Cloud collected using VLP-16*
 
-
+## Results
 ![Alt text](assets/DatasetICP.png)|![Alt text](assets/DatasetICP.gif)
 :--:|:--:
  *Initial Point Clouds*|*ICP aligned Point Cloud*
@@ -20,4 +20,29 @@ The implementation is done on opensource point cloud dataset ``cloud_bin_[0-2].p
 :--:|:--:
  *Initial Point Clouds of Room*|*ICP aligned Point Cloud of Room*
 
+# Compiling and Running the Executable
 
+To run the above project, clone the repository by 
+```shell
+git clone https://github.com/navoday01/Point-cloud-alignment-with-ICP.git
+```
+Now go to Point-cloud-alignment-with-ICP
+```shell
+cd Point-cloud-alignment-with-ICP/
+```
+Now create a build folder and go to it
+```shell
+mkdir build && cd build 
+```
+Run the following command to build system generator
+```shell
+cmake ..
+```
+Run the following command to drive the compiler and other build tools to build the code
+```shell
+make
+```
+Run the code by entering following in the terminal to visualize implemetation on collected Lidar point cloud
+```shell
+./icp ../LiDAR.pcd {xx}
+```
