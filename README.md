@@ -2,7 +2,7 @@
 
 ![Alt text](assets/Dataset.png)|![Alt text](assets/MappedRoom.png)
 :--:|:--:
- *Initial Point Clouds*|*ICP aligned Point Cloud*
+ *Opensource Point Cloud*|*Point Cloud collected using VLP-16*
 
 
 ![Alt text](assets/DatasetICP.png)|![Alt text](assets/DatasetICP.gif)
