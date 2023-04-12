@@ -9,7 +9,7 @@ The implementation is done on opensource point cloud dataset ``cloud_bin_[0-2].p
 
 ![Alt text](assets/Dataset.png)|![Alt text](assets/MappedRoom.png)
 :--:|:--:
- *Opensource Point Cloud (Source: )*|*Point Cloud collected using VLP-16*
+ *Opensource Point Cloud (Source: Open3D)*|*Point Cloud collected using VLP-16*
 
 
 ![Alt text](assets/DatasetICP.png)|![Alt text](assets/DatasetICP.gif)
