@@ -42,7 +42,7 @@ Run the following command to drive the compiler and other build tools to build t
 ```shell
 make
 ```
-Run the code by entering following in the terminal to visualize implemetation on collected Lidar point cloud
+Run the code by entering following in the terminal to visualize implemetation on collected Lidar point cloud. xx is the number of initial iterations to do (1 is the default value) if no value is entered.
 ```shell
-./icp ../LiDAR.pcd {xx}
+./icp ../LiDAR.pcd xx
 ```
