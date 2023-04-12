@@ -1,6 +1,6 @@
 # Point cloud alignment with ICP
 
-![Alt text](assets/Dataset.png)|![Alt text](assets/MappeddRoom.gif)
+![Alt text](assets/Dataset.png)|![Alt text](assets/MappedRoom.gif)
 :--:|:--:
  *Initial Point Clouds*|*ICP aligned Point Cloud*
 
